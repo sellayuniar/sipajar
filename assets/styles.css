@@ -1,0 +1,31 @@
+.transparent {
+    background-color: transparent;
+    z-index: 999;
+}
+
+.white-layer {
+    backdrop-filter: blur(0.05px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.06);
+}
+
+.tentang {
+    backdrop-filter: blur(0.05px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.56);
+    border-radius: 20px;
+}
+
+.cara {
+    backdrop-filter: blur(0.05px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.30);
+    border-radius: 20px;
+}
+
+.detail-cara {
+    backdrop-filter: blur(0.05px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.30);
+    border-radius: 10px;
+}
