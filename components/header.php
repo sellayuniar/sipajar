@@ -16,12 +16,12 @@
 <body>
 <div class="relative container transparent">
     <div class="flex justify-between my-8">
-        <h1 class="text-3xl mx-10 font-bold">SIPAJAR</h1>
+        <h1 class="text-3xl mx-10 font-bold"><a href="/sipajar">SIPAJAR</a></h1>
         <div>
             <ul class="flex flex-row">
-                <li class="mx-5 text-xl" >Home</li>
-                <li class="mx-5 text-xl">About Platform</li>
-                <li class="mx-5 text-xl">Kelompok Kami</li>
+                <li class="mx-5 text-xl"> <a href="/sipajar">Home</a></li>
+                <li class="mx-5 text-xl"><a href="/sipajar#about">About Platform</a></li>
+                <li class="mx-5 text-xl"><a href="/sipajar#kelompok-kami">Kelompok Kami</a></li>
             </ul>
         </div>
     </div>
