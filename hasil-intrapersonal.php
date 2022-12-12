@@ -10,7 +10,7 @@
                 <h1 class="text-3xl font-bold mb-5 detail-cara p-5 text-center">Gaya Belajar Kamu adalah Intrapersonal</h1>
                 <div class="flex items-center justify-evenly pb-10">
                     <div class="text-xl basis-8/12 p-5">
-                        <p class="indent-8 text-justify leading-8">Menurut diadona.id, Macam-macam gaya belajar yang terakhir ini adalah solitary atau sendiri. Biasanya orang-orang yang dengan tipe gaya belajar ini lebih suka belajar sendiri di tempat yang sepi.</p>
+                        <p class="indent-8 text-justify leading-8">Menurut diadona.id, Macam-macam gaya belajar ini adalah solitary atau sendiri. Biasanya orang-orang yang dengan tipe gaya belajar ini lebih suka belajar sendiri di tempat yang sepi.</p>
                         <p class="indent-8 text-justify leading-8">Mereka agak kurang suka dengan tempat yang ramai karena sulit untuk berkonsentrasi. Bukan berarti mereka anti sosial, mereka hanya lebih nyaman untuk belajar secara mandiri agar bisa lebih memahami materi yang sedang diajarkan.</p>
                     </div>
                     <img src="./assets/book.png" class="w-1/4">

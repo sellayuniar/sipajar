@@ -7,7 +7,7 @@
         <div class="white-layer h-full w-full absolute top-0 left-0">
 
             <section class="container-fluid mt-40 cara w-4/5 mx-auto">
-                <h1 class="text-3xl font-bold mb-5 detail-cara p-5 text-center">Gaya Belajar Kamu adalah Auditori</h1>
+                <h1 class="text-3xl font-bold mb-5 detail-cara p-5 text-center">Gaya Belajar Kamu adalah Logis</h1>
                 <div class="flex items-center justify-evenly pb-10">
                     <div class="text-xl basis-8/12 p-5">
                         <p class="indent-8 text-justify leading-8">Menurut diadona.id, Gaya belajar yang kebanyakan menggunakan logika. Tipe orang yang dengan gaya belajar seperti ini biasanya akan cepat menyadari suatu bentuk pola, dan melihat suatu keterkaitan dan cepat menghubungkan satu informasi ini dengan lainnya. </p>

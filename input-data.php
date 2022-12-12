@@ -7,7 +7,7 @@
         <div class="white-layer h-full w-full absolute top-0 left-0">
             
             <section class="container-fluid mt-36">
-                <h1 class="text-2xl font-bold text-center">Cek Metode Belajar Anda</h1>
+                <h1 class="text-2xl font-bold text-center">Cek Gaya Belajar Anda</h1>
                 <form action="process.php" method="post" class="tentang mt-10 p-5 w-3/5 mx-auto">
                     <table class="border-separate border-spacing-3">
                         <tr>
